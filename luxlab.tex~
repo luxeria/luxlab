@@ -17,10 +17,10 @@
          
 \begin{abstract}
 \noindent
-Ab Sommer 2012 verfügt der Verein LuXeria einen Elektronik-Laborplatz
-welcher intern als LuXLab bezeichnet wird. Das Unterhalten und benutzten 
-des LuXLab erfordert gewisse Richtlinien welche den Betrieb als auch
-die Sicherheit der Nutzer und Infrastruktur gewährleisten.
+Ab Sommer 2012 verfügt der Verein LuXeria über einen Elektronik-Laborplatz
+welcher intern als LuXLab bezeichnet wird. Das Unterhalten und Benutzen 
+des LuXLab erfordert gewisse Richtlinien, welche den Betrieb und
+die Sicherheit der Nutzer und der Infrastruktur gewährleisten.
 \end{abstract}
 
 \newpage
@@ -31,8 +31,9 @@ die Sicherheit der Nutzer und Infrastruktur gewährleisten.
 %%%%%%%%%%
 
 \section{Nutzung}
-Grundsätzlich gilt das Nutzungsrecht des Elektronik-Labors für sämtliche Mit-
-glieder des LuXeria, welche sich mit den hier beschriebenen Richtlinien 
+Grundsätzlich gilt das Nutzungsrecht des LuXLab\footnote{
+    Eigenname für das Elektronik-Labor von LuXeria.} 
+für sämtliche Mitglieder des LuXeria, welche sich mit den hier beschriebenen Richtlinien 
 einverstanden erklären und die enstprechenden Leistungen entrichten 
 (siehe Abschnitt Gebühren). Eine Ausnahme dieser Regel kann im Rahmen 
 von unterstützten Projekten durch den Vorstand erfolgen.
@@ -41,9 +42,8 @@ von unterstützten Projekten durch den Vorstand erfolgen.
 Die Vereinstreffen von LuXeria gelten als zeitlicher Nutzungsrahmen 
 des LuXLab, welche jeweils Mittwochabend von 17:30 bis 22:30 Uhr 
 stattfinden. Für Anwesenheiten ausserhalb dieser Zeiten, sind nur die sog. Vertrauenspersonen\footnote{Vertrauenspersonen sind aktive LuXeria-Mitglieder,
-    welche dem VFI und somit dem Sicherheitsdienst (aktuell Securitas) des
-    Ringier Print Areals kommuniziert und registriert werden mit den zum
-    Zutritt erforderlichen Angaben.}
+    welche dem VFI und dem Sicherheitsdienst des
+    RPA kommuniziert und registriert sind.}
 berechtigt bzw. Personen die in deren Begleitung erscheinen.
 
 \subsection{Reservierungen}
@@ -102,11 +102,11 @@ Verantwortung, Instandhaltung und Betreuung zugesprochen bekommt.
 Dieser ist verantwortlich für die Instandhaltung des Arbeitsplatzes und der 
 Geräte als auch für die Nutzer des Labors. Weiter ist dieser auch befugt, 
 Nutzungsrechte mit sofortiger Wirkung abzusprechen, wobei solche
-Fälle schriftlich und umgehend dem Vorsstand zu melden sind.
+Fälle schriftlich und umgehend dem Vorstand zu melden sind.
 
 \subsection{Nutzer}
 Jeder Nutzer des LuXLab trägt direkt die Verantwortung für sich,
-die zur Verfügung stehenden Gerätschaften als auch das LuXLab als Ganzes.
+die zur Verfügung stehenden Gerätschaften als auch für das LuXLab als Ganzes.
 
 \section{Instandhaltung}
 
@@ -122,7 +122,7 @@ Projektgruppen\footnote{
 .
 
 \subsection{Logbuch}
-Jeder Nutzer ist dazu verpflichtet sämtliche aktivitäten zu registrieren.
+Jeder Nutzer ist dazu verpflichtet, sämtliche Aktivitäten zu registrieren.
 Dies erfolgt per Eintrag in ein \emph{Logbuch}. Dort sind zu folgenden
 Punkten Einträge zu erstellen:
 \begin{itemize}
@@ -159,13 +159,13 @@ Beim Verlassen\footnote{
     Hier ist längeres Verlassen gemeint. Das Verlassen den LuXLab in 
     Sinne kurzer Pausen usw. sind hiervon nicht betroffen.}
 des LuXLab sind sämtliche Geräte von der Netzspannung zu trennen und 
-Batteriebetribene Geräte abzustellen.
+Batteriebetriebene Geräte abzustellen.
 
 Defekte oder Unsicherheiten bezüglich des Zustandes der Gerätschaften 
 sind dem Verantwortlichen des LuXLab umgehend zu melden.
 
 \subsection{Verbrauchsmaterial}
-Grundlagendes Verbrauchmaterial\footnote{
+Grundlegendes Verbrauchmaterial\footnote{
     Als grundlegendes Verbrauchsmaterial gelten Materialien der
     Lötstationen wie Drähte und Lötzinn aber auch Bauteile ohne
     speziellen Charakter (Widerstände, einfache Halbleiter usw. 
@@ -182,11 +182,16 @@ Sortiment sind einzutragen im \emph{Führungsblatt}.
 Nutzer des LuXLab haben eine jährliche Gebühr zu entrichten in
 Höhe des Mitgliederbeitrages von LuXeria.
 Die entrichtung dieser Grbühr fällt per Eintritt oder bei
-bestehender Mitgliedschaft mit den Entrichten der
+bestehender Mitgliedschaft mit dem Entrichten der
 Mitgliederbeiträge an. Die Entrichtung der Gebühr verleiht
-automatisch das Nutzungsrech bis zum Ende des Kalenderjahres
+automatisch das Nutzungsrecht bis zum Ende des Kalenderjahres
 bzw. bis zum Termin der Entrichtung der Mitgliederbeiträge 
 von LuXeria.
+
+Die einbezahlten Gebühren werden vollumfänglich dazu benutzt, 
+das LuXLab zu unterhalten. Überschüsse am Ende des Kalenderjahres 
+werden erfasst und als Budget zur unterstützung von Projekten
+freigegeben.
 
 %%%%%%%%%%
 

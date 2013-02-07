@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.11.30)  7 FEB 2013 12:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2012.11.30)  7 FEB 2013 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1508,12 +1508,12 @@ Package Fancyhdr Warning: \headheight is too small (40.45274pt):
 
 [2]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 46.
+(Font)              <6> on input line 35.
 File: lux_logo.png Graphic file (type png)
  <use lux_logo.png>
-Package pdftex.def Info: lux_logo.png used on input line 106.
+Package pdftex.def Info: lux_logo.png used on input line 102.
 (pdftex.def)             Requested size: 43.16048pt x 44.36496pt.
 
 
@@ -1530,7 +1530,7 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 File: lux_logo.png Graphic file (type png)
  <use lux_logo.png>
-Package pdftex.def Info: lux_logo.png used on input line 177.
+Package pdftex.def Info: lux_logo.png used on input line 167.
 (pdftex.def)             Requested size: 43.16048pt x 44.36496pt.
 
 
@@ -1570,8 +1570,8 @@ Package rerunfilecheck Info: File `luxlab.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 27376 strings out of 493485
- 494163 string characters out of 3143525
+ 27377 strings out of 493485
+ 494175 string characters out of 3143525
  819898 words of memory out of 3000000
  30032 multiletter control sequences out of 15000+200000
  67615 words of font info for 55 fonts, out of 3000000 for 9000
@@ -1586,10 +1586,10 @@ nts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb
 /public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmri10.pfb>
-Output written on luxlab.pdf (6 pages, 298341 bytes).
+Output written on luxlab.pdf (6 pages, 298649 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 191 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
  138 words of extra memory for PDF output out of 10000 (max. 10000000)
 
