@@ -1,0 +1,229 @@
+\documentclass[a4paper,
+               10pt,
+               fleqn]{article}
+
+\author{Ervin Mazlagic}
+\title{Paper Manual}
+
+\usepackage{luxpaper}
+\usepackage{luxtitle}
+ 
+\begin{document}
+\luxtitle{Papers}
+         {LuXLab Richtlinien}
+         {Ervin Mazlagi\'c}
+         {Adligenswil}
+         {2012}
+         
+\begin{abstract}
+\noindent
+Ab Sommer 2012 verfügt der Verein LuXeria einen Elektronik-Laborplatz
+welcher intern als LuXLab bezeichnet wird. Das Unterhalten und benutzten 
+des LuXLab erfordert gewisse Richtlinien welche den Betrieb als auch
+die Sicherheit der Nutzer und Infrastruktur gewährleisten.
+\end{abstract}
+
+\newpage
+
+\tableofcontents
+\newpage
+
+%%%%%%%%%%
+
+\section{Nutzung}
+Grundsätzlich gilt das Nutzungsrecht des Elektronik-Labors für sämtliche Mit-
+glieder des LuXeria, welche sich mit den hier beschriebenen Richtlinien 
+einverstanden erklären und die enstprechenden Leistungen entrichten 
+(siehe Abschnitt Gebühren). Eine Ausnahme dieser Regel kann im Rahmen 
+von unterstützten Projekten durch den Vorstand erfolgen.
+
+\subsection{Zugang}
+Die Vereinstreffen von LuXeria gelten als zeitlicher Nutzungsrahmen 
+des LuXLab, welche jeweils Mittwochabend von 17:30 bis 22:30 Uhr 
+stattfinden. Für Anwesenheiten ausserhalb dieser Zeiten, sind nur die sog. Vertrauenspersonen\footnote{Vertrauenspersonen sind aktive LuXeria-Mitglieder,
+    welche dem VFI und somit dem Sicherheitsdienst (aktuell Securitas) des
+    Ringier Print Areals kommuniziert und registriert werden mit den zum
+    Zutritt erforderlichen Angaben.}
+berechtigt bzw. Personen die in deren Begleitung erscheinen.
+
+\subsection{Reservierungen}
+Alle Personen die Anspruch auf die Nutzung des LuXLab besitzen, haben die
+Möglichkeit, Laborzeiten zu reservieren. Hierfür wird der Vereinspräsident 
+beauftragt bzw. angefragt die Reservation durchzuführen oder abzuweisen
+(mit evtl. Verweis auf einen anderen Termin).
+
+\section{Unterstützung}
+Arbeiten welche im LuXLab getätigt werden, müssen der Idee\footnote{
+     Als Idee ist gemeint, wie sich der Verein bzw. dessen Zweck definiert.
+     Dies ist vollumfänglich in den Statuten des Vereins niedergeschrieben.}
+des LuXeria entsprechen. 
+
+Besonderer Wert wird dabei auf den \emph{nicht kommerziellen Charakter} des
+Vereins gelegt. Wird innerhalb des LuXLab ein Ergebnis erreicht welches 
+vermarktet werden kann, 
+ob gezielt oder nicht und unabhängig vom Status der beteiligten Personen\footnote{
+    Da Dritte das LuXLab nur durch ein aktives Mitglied des Vereins LuXeria
+    benutzen können und dieses als Vertreter bzw. Vormund Dritter innerhalb des
+    Vereins und somit des LuXLab gilt, gelten die sowohl die Statuten 
+    als auch alle anderen Richtlinen des
+    Vereins für alle entstandenen Inhalte und Ergebnisse von Dritten.}
+, hat der Verein LuXeria das alleinige Vorzugsrecht auf die Vermarktung 
+oder kann auf dieses Verzichten\footnote{Der Verein LuXeria hat das
+    Recht die Inhalte, welche innerhalb des LuXLab entstehen unter
+    eine dem Verein angebrachte Nutzung bzw. Lizenz (wie beispielsweise
+    die GPL oder Creative Commons usw.) zu stellen und 
+    es kann auf dieses Recht verzichtet werden.}.
+
+\section{Sicherheit}
+Das LuXLab ist nach gängigen Sicherheitsrichtlinien einzurichten und
+allfällige Mängel oder Bedenken dazu schriftlich dem Vorstand von LuXeria
+zu melden\footnote{
+    Als schriftlicht gelten hierbei Briefe und E-Mails.}.
+Zwingend für die Inbetriebnahme bzw. Nutzung des LuXLab ist das vorhandensein
+eines Notschalters\footnote{
+    Hier ist kein Industrie-Notschalter gemeint, sondern ein Schalter der
+    in der Lage ist, alle Gerätschaften des LuXLab von der Netzspannung
+    zu trennen.}
+und eines CO$_2$ Feuerlöschers\footnote{
+    Andere Feuerlöscher (z.B. Schaum- und Pulverlöscher) sind nicht für
+    elektronische Arbeitsplätze geeignet und dürfen nicht ich Sichtweite
+    zum LuXLab platziert werden.}.
+    
+Die Sicherheit ist grundsätzlich durch den jeweiligen Nutzer oder dessen
+Vertreter zu gewärleisten.
+Der Verein LuXeria entzieht sich jeglicher Verantwortung oder Haftung für 
+Unfälle aller Art.
+
+\section{Verantwortung}
+Das LuXLab stellt einen eigenen Bereich bzw. Funktion innerhalb von LuXeria 
+dar, welche von einem Mitglied wahrgenommen wird und somit die 
+Verantwortung, Instandhaltung und Betreuung zugesprochen bekommt.
+
+Dieser ist verantwortlich für die Instandhaltung des Arbeitsplatzes und der 
+Geräte als auch für die Nutzer des Labors. Weiter ist dieser auch befugt, 
+Nutzungsrechte mit sofortiger Wirkung abzusprechen, wobei solche
+Fälle schriftlich und umgehend dem Vorsstand zu melden sind.
+
+\subsection{Nutzer}
+Jeder Nutzer des LuXLab trägt direkt die Verantwortung für sich,
+die zur Verfügung stehenden Gerätschaften als auch das LuXLab als Ganzes.
+
+\section{Instandhaltung}
+
+\subsection{Inventar}
+Über alle Geräte, Werkzeuge und Materialien wird laufend ein Inventar 
+geführt, welches nach Möglichkeit den Besitzer, das Ein-/Ausführungsdatum 
+und Zustand beschreibt. 
+Dazu stehen die folgenden Kategorien zur Verfügung: VFI, LuXeria, Member und
+Projektgruppen\footnote{
+    Projektgruppen können auch Dritte, also Personen die keine Mitgliedschat
+    von LuXeria besitzen, beinhalten oder rein durch Dritte belegt sein. 
+    In letzerem Fall ist eine Vertretung durch ein Vereinsmitglied gegeben.}
+.
+
+\subsection{Logbuch}
+Jeder Nutzer ist dazu verpflichtet sämtliche aktivitäten zu registrieren.
+Dies erfolgt per Eintrag in ein \emph{Logbuch}. Dort sind zu folgenden
+Punkten Einträge zu erstellen:
+\begin{itemize}
+    \item Benutzer (Person oder Gruppe)
+    \item Probleme/Komplikationen in Zusammenhang mit Infrastruktur etc.
+    \item Wünsche und Verbesserungsvorschläge
+    \item Materialbezüge
+\end{itemize}
+
+\subsection{Projekte}
+Jedes Projekt hat einen offizielen Namen und einen Besitzer\footnote{
+    Eine Person, die bezüglich des Projektes angesprochen werden kann.}.
+Zu jedem Projekt wird ein offenes Journal geführt, welches im Rahmen der
+Nutzer des LuXLab und LuXeria eingesehen werden kann. 
+Dieses soll die grobe Entwicklung
+eines Projektes wiedergeben und muss keine Detailinformationen 
+(wie Technologien oder Methoden) enthalten. 
+
+Diese Angaben und Informationen werden genutzt um eine aktive Pflege des
+LuXLab zu erleichtern und die Mitglieder von LuXeria über aktuelle
+Ergebnisse und Entwicklungen zu informieren.
+
+\subsection{Arbeitsplatz}
+Jeder Nutzer steht in der Pflicht, beim Verlassen des LuXLab die
+Ausgangslage bzw. eine abgesprochene Ordnung zu erstellen. Hierzu
+werden von LuXeria \emph{Projektboxen} zur Verfügung gestellt. Diese
+können und sollen benutzt werden um alle projektrelevanten Objekte 
+so zusammenzutragen, damit das Erstellen einer Ordnung erleichtert wird.
+ 
+\subsection{Geräte}
+Die zur Verfügung gestellten Gerätschaften sind nach deren Benutzung in
+den Ausgangszustand bzw. einen abgesprochenen Zustand zu versetzten.
+Beim Verlassen\footnote{
+    Hier ist längeres Verlassen gemeint. Das Verlassen den LuXLab in 
+    Sinne kurzer Pausen usw. sind hiervon nicht betroffen.}
+des LuXLab sind sämtliche Geräte von der Netzspannung zu trennen und 
+Batteriebetribene Geräte abzustellen.
+
+Defekte oder Unsicherheiten bezüglich des Zustandes der Gerätschaften 
+sind dem Verantwortlichen des LuXLab umgehend zu melden.
+
+\subsection{Verbrauchsmaterial}
+Grundlagendes Verbrauchmaterial\footnote{
+    Als grundlegendes Verbrauchsmaterial gelten Materialien der
+    Lötstationen wie Drähte und Lötzinn aber auch Bauteile ohne
+    speziellen Charakter (Widerstände, einfache Halbleiter usw. 
+    die keine Auffälligkeit haben bezüglich ihrer Lieferbarkeit
+    oder Stückpreisen).}
+wird zur Verfügung gestellt vom Verantwortlichen des LuXLab bzw.
+vom Verein LuXeria.
+
+Grössere Projekte werden von der entsprechenden Projektgruppe
+mit Material versorgt. Bezüge aus dem zur Verfügung gestellten 
+Sortiment sind einzutragen im \emph{Führungsblatt}.
+
+\section{Gebühren}
+Nutzer des LuXLab haben eine jährliche Gebühr zu entrichten in
+Höhe des Mitgliederbeitrages von LuXeria.
+Die entrichtung dieser Grbühr fällt per Eintritt oder bei
+bestehender Mitgliedschaft mit den Entrichten der
+Mitgliederbeiträge an. Die Entrichtung der Gebühr verleiht
+automatisch das Nutzungsrech bis zum Ende des Kalenderjahres
+bzw. bis zum Termin der Entrichtung der Mitgliederbeiträge 
+von LuXeria.
+
+%%%%%%%%%%
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
