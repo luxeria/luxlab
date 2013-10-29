@@ -1,7 +1,8 @@
 Wunschliste für Bauteile im Luxlab
 ==================================
 
-Operationsverstärker
-MOSFET (u.a. Logic Level kompatibel)
-Lochrasterplatine
-Arduino Uno Boards
+- Operationsverstärker
+- MOSFET (u.a. Logic Level kompatibel)
+- Lochrasterplatine
+- Arduino Uno Boards
+   - Arduino Shields: Proto, Motor, Ethernet
