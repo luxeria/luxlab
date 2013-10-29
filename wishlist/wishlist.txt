@@ -1,9 +1,27 @@
 Wunschliste für Bauteile im Luxlab
 ==================================
 
-- Operationsverstärker
+Diskrete passive Bauteile
+-------------------------
+- Keramikkondensatorsortiment
+
+Diskrete Halbleiter
+-------------------
 - MOSFET (u.a. Logic Level kompatibel)
-- Lochrasterplatine
+
+Analoge Bauteile
+----------------
+- Operationsverstärker
+
+Digitale Bauteile
+-----------------
+- 
+
+Boards
+------
 - Arduino Uno Boards
    - Arduino Shields: Proto, Motor, Ethernet
-- Keramikkondensatoren
+
+Sonstiges
+---------
+- Lochrasterplatine
