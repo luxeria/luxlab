@@ -6,3 +6,4 @@ Wunschliste für Bauteile im Luxlab
 - Lochrasterplatine
 - Arduino Uno Boards
    - Arduino Shields: Proto, Motor, Ethernet
+- Keramikkondensatoren
