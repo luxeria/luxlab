@@ -1,0 +1,7 @@
+Wunschliste für Bauteile im Luxlab
+==================================
+
+Operationsverstärker
+MOSFET
+Lochrasterplatine
+
