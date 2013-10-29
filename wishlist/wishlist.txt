@@ -21,6 +21,7 @@ Boards
 ------
 - Arduino Uno Boards
    - Arduino Shields: Proto, Motor, Ethernet
+- MSP430 Launchpad
 
 Sonstiges
 ---------
