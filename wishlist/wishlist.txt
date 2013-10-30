@@ -7,15 +7,22 @@ Diskrete passive Bauteile
 
 Diskrete Halbleiter
 -------------------
+- Dioden
+- Bipolartransistoren
 - MOSFET (u.a. Logic Level kompatibel)
+- LED
+- LED Siebensegmentanzeigen
+- Optokoppler
 
 Analoge Bauteile
 ----------------
+- Spannungsregler
 - Operationsverstärker
+- 555
 
 Digitale Bauteile
 -----------------
-- 
+- Display (z.B. HD44780 kompatibel)
 
 Boards
 ------
@@ -23,6 +30,11 @@ Boards
    - Arduino Shields: Proto, Motor, Ethernet
 - MSP430 Launchpad
 
+Elektromechanische Bauteile
+---------------------------
+- Relais
+
 Sonstiges
 ---------
 - Lochrasterplatine
+- Kabel
