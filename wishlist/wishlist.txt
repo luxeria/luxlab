@@ -7,14 +7,18 @@ Diskrete passive Bauteile
 
 Diskrete Halbleiter
 -------------------
-- BJT und FET für kleine Leistungen
+- Dioden
+- Bipolartransistoren
 - MOSFET (u.a. Logic Level kompatibel)
+- LED
+- LED Siebensegmentanzeigen
+- Optokoppler
 
 Analoge Bauteile
 ----------------
+- Spannungsregler (fix und einstellbar)
 - Operationsverstärker
 - 555
-- Spannungsregler (fix und einstellbar)
 
 Digitale Bauteile
 -----------------
@@ -24,6 +28,7 @@ Digitale Bauteile
 - Zähler
 - Schieberegister
 - Analogschalter bzw. MUX
+- Display (z.B. HD44780 kompatibel)
 
 Boards
 ------
@@ -31,6 +36,11 @@ Boards
    - Arduino Shields: Proto, Motor, Ethernet
 - MSP430 Launchpad (g2x und f5x)
 
+Elektromechanische Bauteile
+---------------------------
+- Relais
+
 Sonstiges
 ---------
 - Lochrasterplatine
+- Kabel
