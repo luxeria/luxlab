@@ -7,21 +7,29 @@ Diskrete passive Bauteile
 
 Diskrete Halbleiter
 -------------------
+- BJT und FET für kleine Leistungen
 - MOSFET (u.a. Logic Level kompatibel)
 
 Analoge Bauteile
 ----------------
 - Operationsverstärker
+- 555
+- Spannungsregler (fix und einstellbar)
 
 Digitale Bauteile
 -----------------
-- 
+- (Festlegung auf eine bi maximal 2 Technologien, Vorschlag: 74HC bzw. 74HCT)
+- Gatter
+- Flipflop
+- Zähler
+- Schieberegister
+- Analogschalter bzw. MUX
 
 Boards
 ------
 - Arduino Uno Boards
    - Arduino Shields: Proto, Motor, Ethernet
-- MSP430 Launchpad
+- MSP430 Launchpad (g2x und f5x)
 
 Sonstiges
 ---------
